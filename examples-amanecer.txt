@@ -1,0 +1,14 @@
+tempo=84 wave=pluck vol=0.32
+# Amanecer -- una pieza tranquila para trabajar. Am F C G, melodia arriba.
+[A3 C4 E4]:2 [F3 A3 C4]:2 [C3 E3 G3]:2 [G3 B3 D4]:2
+E5:0.5 D5:0.5 C5 R:0.5 A4:0.5 C5 R
+[A3 C4 E4]:2 [F3 A3 C4]:2 [C3 E3 G3]:2 [G3 B3 D4]:2
+E5:0.5 G5:0.5 E5 D5:0.5 C5:0.5 D5:2
+[A3 C4 E4] E5:0.5 C5:0.5 [F3 A3 C4] A4:0.5 C5:0.5 [C3 E3 G3] G4:0.5 E4:0.5 [G3 B3 D4] D5:2
+R:2
+wave=sine vol=0.28
+A4:0.5 C5:0.5 E5:0.5 A5:1.5 G5:0.5 E5:0.5 D5:0.5 C5:1.5 B4:0.5 D5:0.5 G5:2
+A4:0.5 C5:0.5 E5:0.5 A5:1.5 G5:0.5 E5:0.5 D5:0.5 C5:1.5 B4:0.5 G4:0.5 A4:3
+wave=pluck vol=0.32
+[A3 C4 E4]:2 [F3 A3 C4]:2 [C3 E3 G3]:2 [G3 B3 D4]:2
+[A3 C4 E4]:4
