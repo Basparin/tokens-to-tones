@@ -1,6 +1,6 @@
 # tokens-to-tones
 
-A score that grows while it plays: tokens in, tones out. Four tiny Python scripts, no DAW, no MIDI:
+A score that grows while it plays: tokens in, tones out. Four tiny Pliny Python scripts, no DAW, no MIDI:
 
 - `player.py` tails `score.txt` and **plays every new line the moment it lands**. Lines are phrases of tokens
   (notes, chords, rests, tempo, timbre, volume). The queue never waits for the author: write a whole piece
